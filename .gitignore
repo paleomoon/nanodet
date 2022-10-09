@@ -117,3 +117,7 @@ work_dirs/
 *.pth
 *.py~
 *.sh~
+
+*.ckpt
+*.onnx
+workspace/
